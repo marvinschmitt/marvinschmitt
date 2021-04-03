@@ -1,5 +1,3 @@
-![](media/header.png)
-
 👋 Hi, I’m @marvinschmitt
 
 👀 I’m interested in Machine Learning at the intersection of Psychology and Computer Science.
