@@ -4,7 +4,7 @@
 [![stackoverflow badge](https://img.shields.io/badge/-marvinschmitt-green?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/14977359/marvinschmitt) 
 
 
-👀 I’m interested in Statistics and Machine Learning at the intersection of Psychology and Computer Science.
+👀 I’m interested in Statistics and Machine Learning, often at the intersection of Computer Science and Psychology.
 
 🛠 I mainly work with the programming languages `Python` and `R`.
 
