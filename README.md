@@ -1,7 +1,6 @@
 <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am Marvin Schmitt</h1>
 
 [![linkedin badge](https://img.shields.io/badge/-marvinschmitt-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marvin-schmitt-a85b321a2/) 
-[![stackoverflow badge](https://img.shields.io/badge/-marvinschmitt-green?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/14977359/marvinschmitt) 
 [![twitter badge](https://img.shields.io/badge/-MarvinSchmittML-9cf?style=flat&logo=twitter)](https://twitter.com/MarvinSchmittML) 
 
 
