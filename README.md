@@ -1,6 +1,6 @@
 <b>Hi, I am Marvin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </b>
 
-📌 I'm a Reserach Resident at Midjourney. Previously, I completed my PhD in AI/ML at the European Laboratory for Learning and Intelligent Systems ([ELLIS](https://ellis.eu)) in Stuttgart (Germany) and Helsinki (Finland). ELLIS Co-Supervisors: [Paul Bürkner](https://paul-buerkner.github.io/) (TU Dortmund, Germany) and [Aki Vehtari](https://users.aalto.fi/~ave/) (Aalto University, Finland).
+📌 I'm a Research Resident at Midjourney. Previously, I completed my PhD in AI/ML at the European Laboratory for Learning and Intelligent Systems ([ELLIS](https://ellis.eu)) in Stuttgart (Germany) and Helsinki (Finland). ELLIS Co-Supervisors: [Paul Bürkner](https://paul-buerkner.github.io/) (TU Dortmund, Germany) and [Aki Vehtari](https://users.aalto.fi/~ave/) (Aalto University, Finland).
 
 🎓 Before that, I studied in Data & Computer Science (MSc) and Psychology (BSc & MSc) at [Heidelberg University](https://www.uni-heidelberg.de/en).
 
