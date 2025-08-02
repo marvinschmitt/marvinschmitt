@@ -10,4 +10,4 @@
 
 📩 Always open for collaborations or questions via [mail](mailto:mail.marvinschmitt@gmail.com).
 
-💬 Take a look at my [homepage](https://marvinschmitt.github.io) or reach out on [Bluesky](https://bsky.app/profile/marvinschmitt.bsky.social) or [LinkedIn](https://www.linkedin.com/in/marvin-schmitt-a85b321a2/).
+💬 Take a look at my [homepage](https://marvin-schmitt.com) or reach out on [Bluesky](https://bsky.app/profile/marvin-schmitt.com) or [LinkedIn](https://www.linkedin.com/in/marvin-schmitt-a85b321a2/).
